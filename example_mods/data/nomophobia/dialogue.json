@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "A?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait. Why are we falling?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I turned the gravity off."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But.. How?"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Magic?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, ok."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "BEEP BOP BAP BOP?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT UP JUST SING"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Jezz, ok!"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "How the fuck can you talk..? "
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "UHhh.. i mean, Beep, bop!"
+		}
+	]
+}

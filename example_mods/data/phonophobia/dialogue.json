@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.1,
+			"portrait": "3dbambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ফিরে এসেছি কিন্তু সাদা"
+		},
+		{
+			"speed": 0.25,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "3dbambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "সাসাস অ্যামোগাস"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can you speak?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I can’t hear you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bep!"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "3dbambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "রেপ যুদ্ধ"
+		},
+		{
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "K."
+		}
+	]
+}

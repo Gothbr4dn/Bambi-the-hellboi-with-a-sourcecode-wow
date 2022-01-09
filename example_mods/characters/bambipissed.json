@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bambi_Pissed_Idle"
+		},
+		{
+			"offsets": [
+				16,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bambi_Pissed_Up"
+		},
+		{
+			"offsets": [
+				29,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bambi_Pissed_Right"
+		},
+		{
+			"offsets": [
+				-25,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bambi_Pissed_Left"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bambi_Pissed_Down"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "moldy",
+			"loop": false,
+			"name": "MOLDY"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bambi_Pissed",
+	"position": [
+		170,
+		450
+	],
+	"healthicon": "bambi-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		12,
+		181,
+		0
+	],
+	"camera_position": [
+		90,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

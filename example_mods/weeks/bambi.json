@@ -1,0 +1,48 @@
+{
+	"storyName": "Bambi has enough of your shit",
+	"hideFreeplay": false,
+	"weekBackground": "nan",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Kalampokiphobia",
+			"bambu",
+			[
+				75,
+				20,
+				20
+			]
+		],
+		[
+			"Nomophobia",
+			"bambu",
+			[
+				55,
+				10,
+				10
+			]
+		],
+		[
+			"Phonophobia",
+			"3dbambu",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Die"
+}

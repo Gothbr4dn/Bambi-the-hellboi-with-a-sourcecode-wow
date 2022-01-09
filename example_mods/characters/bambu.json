@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bambi_Idle"
+		},
+		{
+			"offsets": [
+				73,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bambi_Up"
+		},
+		{
+			"offsets": [
+				256,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bambi_Right"
+		},
+		{
+			"offsets": [
+				71,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bambi_Left"
+		},
+		{
+			"offsets": [
+				193,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bambi_Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bambu",
+	"position": [
+		170,
+		460
+	],
+	"healthicon": "bambu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

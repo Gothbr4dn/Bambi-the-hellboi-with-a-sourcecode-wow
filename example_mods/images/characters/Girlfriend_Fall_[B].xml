@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Girlfriend_Fall_[B].png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Faaaaalllll0000" x="0" y="0" width="737" height="444" frameX="0" frameY="-17" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0001" x="737" y="0" width="737" height="441" frameX="0" frameY="-20" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0002" x="1474" y="0" width="732" height="441" frameX="-3" frameY="-20" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0003" x="2206" y="0" width="732" height="439" frameX="-3" frameY="-22" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0004" x="2938" y="0" width="732" height="439" frameX="-3" frameY="-22" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0005" x="0" y="444" width="732" height="439" frameX="-3" frameY="-22" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0006" x="732" y="444" width="732" height="448" frameX="-3" frameY="-13" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0007" x="1464" y="444" width="732" height="448" frameX="-3" frameY="-13" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0008" x="2196" y="444" width="732" height="457" frameX="-3" frameY="-4" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0009" x="2928" y="444" width="732" height="457" frameX="-3" frameY="-4" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0010" x="0" y="901" width="732" height="457" frameX="-3" frameY="-4" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0011" x="732" y="901" width="732" height="457" frameX="-3" frameY="-4" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0012" x="1464" y="901" width="737" height="461"/>
+	<SubTexture name="Faaaaalllll0013" x="2201" y="901" width="737" height="461"/>
+	<SubTexture name="Faaaaalllll0014" x="2938" y="901" width="732" height="461" frameX="-3" frameY="0" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0015" x="0" y="1362" width="732" height="459" frameX="-3" frameY="-2" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0016" x="732" y="1362" width="732" height="460" frameX="-3" frameY="-1" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0017" x="1464" y="1362" width="732" height="460" frameX="-3" frameY="-1" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0018" x="2196" y="1362" width="732" height="458" frameX="-3" frameY="-3" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0019" x="2928" y="1362" width="732" height="458" frameX="-3" frameY="-3" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0020" x="0" y="1822" width="732" height="455" frameX="-3" frameY="-6" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0021" x="732" y="1822" width="732" height="456" frameX="-3" frameY="-5" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0022" x="1464" y="1822" width="732" height="456" frameX="-3" frameY="-5" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="Faaaaalllll0023" x="2196" y="1822" width="732" height="456" frameX="-3" frameY="-5" frameWidth="737" frameHeight="461"/>
+	<SubTexture name="sad0000" x="2928" y="1822" width="737" height="455"/>
+	<SubTexture name="sad0001" x="0" y="2278" width="737" height="455"/>
+	<SubTexture name="sad0002" x="737" y="2278" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+	<SubTexture name="sad0003" x="1469" y="2278" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+	<SubTexture name="sad0004" x="2201" y="2278" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+	<SubTexture name="sad0005" x="2933" y="2278" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+	<SubTexture name="sad0006" x="0" y="2733" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+	<SubTexture name="sad0007" x="732" y="2733" width="732" height="455" frameX="-3" frameY="0" frameWidth="737" frameHeight="455"/>
+</TextureAtlas>

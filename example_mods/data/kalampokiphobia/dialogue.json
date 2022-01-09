@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THIS IS YOUR LAST CHANCE TO LEAVE YOU BLUE MIGET"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I HAVE ENOUGH OF THAT YOU STEALING MY CORN!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For the last time, we were not doing that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "We are not robbers!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I DON’T CARE"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I’LL WONT LET YOU WIN THIS TIME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bap!"
+		}
+	]
+}

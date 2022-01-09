@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WhiteBambiBoi.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bouncin0000" x="0" y="0" width="536" height="513" frameX="-80" frameY="-40" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0001" x="536" y="0" width="595" height="485" frameX="-46" frameY="-92" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0002" x="1131" y="0" width="636" height="471" frameX="-19" frameY="-119" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0003" x="1131" y="0" width="636" height="471" frameX="-19" frameY="-119" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0004" x="0" y="513" width="660" height="465" frameX="0" frameY="-130" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0005" x="0" y="513" width="660" height="465" frameX="0" frameY="-130" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0006" x="660" y="513" width="635" height="473" frameX="-18" frameY="-118" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0007" x="660" y="513" width="635" height="473" frameX="-18" frameY="-118" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0008" x="1295" y="513" width="520" height="522" frameX="-84" frameY="-40" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0009" x="0" y="1035" width="483" height="540" frameX="-109" frameY="-12" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0010" x="0" y="1035" width="483" height="540" frameX="-109" frameY="-12" frameWidth="660" frameHeight="595"/>
+	<SubTexture name="Bouncin0011" x="483" y="1035" width="466" height="548" frameX="-120" frameY="0" frameWidth="660" frameHeight="595"/>
+</TextureAtlas>

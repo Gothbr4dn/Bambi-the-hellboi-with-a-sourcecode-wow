@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bambi_Dialouge.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk0000" x="0" y="0" width="210" height="315" frameX="0" frameY="0" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0001" x="0" y="0" width="210" height="315" frameX="0" frameY="0" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0002" x="210" y="0" width="212" height="302" frameX="-1" frameY="-13" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0003" x="210" y="0" width="212" height="302" frameX="-1" frameY="-13" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0004" x="422" y="0" width="213" height="290" frameX="-3" frameY="-25" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0005" x="422" y="0" width="213" height="290" frameX="-3" frameY="-25" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0006" x="635" y="0" width="213" height="289" frameX="-3" frameY="-26" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk0007" x="635" y="0" width="213" height="289" frameX="-3" frameY="-26" frameWidth="216" frameHeight="315"/>
+	<SubTexture name="Talk Loop0000" x="0" y="315" width="213" height="289"/>
+	<SubTexture name="Talk Loop0001" x="0" y="315" width="213" height="289"/>
+	<SubTexture name="Talk Loop0002" x="0" y="315" width="213" height="289"/>
+	<SubTexture name="Talk Loop0003" x="0" y="315" width="213" height="289"/>
+</TextureAtlas>

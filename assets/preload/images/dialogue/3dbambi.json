@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		-40
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Talk Loop0",
+			"idle_name": "Talk Loop0"
+		}
+	],
+	"image": "3dBambi_Dialouge"
+}
